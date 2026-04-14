@@ -1,0 +1,1 @@
+ArgoCD GitOps 패턴
