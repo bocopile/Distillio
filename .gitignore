@@ -8,7 +8,5 @@
 # 임시 파일
 /tmp/distillio_*.txt
 
-# phase 중간 산출물은 추적하지 않음 (final_output.md만 추적)
-output/**/phase1_draft.md
-output/**/phase2_review.md
-output/**/phase3_code_review.md
+# 생성된 산출물 — 파이프라인 실행으로 언제든 재생성 가능
+output/
